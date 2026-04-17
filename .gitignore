@@ -1,0 +1,9 @@
+*Vision.json
+Vison.json
+*.env
+*.pyc
+__pycache__
+.venv
+.env
+mathsolve.db
+data/chroma_db/
